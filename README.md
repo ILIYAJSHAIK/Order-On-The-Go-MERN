@@ -33,7 +33,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/food-delivery-app.git
+git clone https://github.com/ILIYAJSHAIK/Order-On-The-Go-MERN
 cd food-delivery-app
 Install dependencies:
 
