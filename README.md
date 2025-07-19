@@ -85,4 +85,4 @@ Please fork the repository and submit a pull request.
 This project is licensed under the MIT License.
 # Order-On-The-Go-MERN
 Demo - <a href="https://drive.google.com/file/d/1x0-524jeFhvco8XhUt-aKftwEmlesjh2/view?usp=sharing">view video</a>
-Drive link - <a href="https://drive.google.com/drive/u/0/folders/1LJKHrqkmXZCj2r13NTGavQqapWlDbyPw"></a>
+Drive link - <a href="https://drive.google.com/drive/u/0/folders/1LJKHrqkmXZCj2r13NTGavQqapWlDbyPw">view link</a>
