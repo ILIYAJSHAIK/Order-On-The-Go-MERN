@@ -11,11 +11,11 @@ A simple and efficient food delivery system that allows users to browse restaura
 📱 Responsive UI (Mobile + Web Friendly)
 
 🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript / React / Next.js (edit based on your stack)
+Frontend: HTML, CSS, JavaScript / React 
 
-Backend: Node.js / Django / Flask (choose one as applicable)
+Backend: Node.js 
 
-Database: MongoDB / MySQL / PostgreSQL
+Database: MongoDB 
 
 Authentication: JWT / Firebase / OAuth
 
